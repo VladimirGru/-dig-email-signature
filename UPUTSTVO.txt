@@ -1,0 +1,9 @@
+DIG TACTICAL — V6 final setup
+
+1. Upload svih 9 slika iz ovog foldera na javno dostupan HTTPS hosting (npr. Shopify Files).
+2. U HTML fajlu zameniti svaku https://YOUR-PUBLIC-IMAGE-HOST.example/dig-signature/.... adresu stvarnim direktnim HTTPS linkom odgovarajuce slike.
+3. Dodati tacne linkove za Instagram, TikTok, Facebook i YouTube profile u <a href="..."> oko odgovarajucih ikonica. Trenutno nisu klikabilne jer nemamo potvrdjene profile.
+4. Thunderbird > Account Settings > izabrati nalog > Attach the signature from a file instead > izabrati finalni HTML.
+5. Poslati probni mejl na drugi nalog; proveriti prikaz i da li se slike prikazuju bez priloga. U nekim mejl klijentima udaljene slike mogu biti blokirane dok primalac ne dozvoli prikaz.
+
+VAZNO: Ovo je sablon za finalizaciju, nije jos gotov potpis za slanje. Ne ostavljati YOUR-PUBLIC-IMAGE-HOST u finalnom fajlu.
